@@ -1,17 +1,14 @@
 {
-  "appName": "Smart Gym Pro",
+  "appName": "Smart Gym System",
   "version": "1.0.1",
   "versionCode": 250,
-  "releaseDate": "2026-10-26",
+  "releaseDate": "2026-10-27",
   "minRequiredVersion": "1.0.0",
-  "title": "Smart Gym Pro v1.0.1 — Major Performance & Auto-Update Release",
+  "title": "Smart Gym System v1.0.1 Update",
   "changelog": [
-    "Instant exercise checkbox completion without reload",
-    "Converted About Gym & Developer modal into modern Android-style page with navigation back button",
-    "Full comprehensive English & Arabic language coverage across Member PWA",
-    "Integrated version badges and automated updater with GitHub Releases support",
-    "Guaranteed SQLite database safety inside User AppData directory"
+    "Fix member login and quickfill",
+    "Fix SQLite AppData disk storage"
   ],
-  "downloadUrl": "https://github.com/kurd-apps/gym-pro/releases/latest/download/Gym-Pro-Setup.exe",
-  "releaseNotesUrl": "https://github.com/kurd-apps/gym-pro/releases/latest"
+  "downloadUrl": "https://github.com/kurd-apps/gym-system/releases/latest/download/Gym_Pro_Setup_v1.0.1.exe",
+  "releaseNotesUrl": "https://github.com/kurd-apps/gym-system/releases/latest"
 }
