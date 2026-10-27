@@ -1,14 +1,16 @@
 {
   "appName": "Smart Gym System",
-  "version": "1.0.1",
-  "versionCode": 250,
+  "version": "1.0.2",
+  "versionCode": 260,
   "releaseDate": "2026-10-27",
   "minRequiredVersion": "1.0.0",
-  "title": "Smart Gym System v1.0.1 Update",
+  "title": "Smart Gym System v1.0.2 — Major Bug Fixes, Timer & SQLite Stability",
   "changelog": [
-    "Fix member login and quickfill",
-    "Fix SQLite AppData disk storage"
+    "Fixed notifications deletion and added duration timer selector",
+    "Enhanced SQLite auto-persistence to AppData folder and robust staff login after logout",
+    "Enabled complete Subscription Types sync with Google Sheets",
+    "Fixed taskbar executable icon display in Windows installer"
   ],
-  "downloadUrl": "https://github.com/kurd-apps/gym-system/releases/latest/download/Gym_Pro_Setup_v1.0.1.exe",
+  "downloadUrl": "https://github.com/kurd-apps/gym-system/releases/latest/download/Gym-System-Setup.exe",
   "releaseNotesUrl": "https://github.com/kurd-apps/gym-system/releases/latest"
 }
